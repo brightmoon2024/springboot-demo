@@ -1,2 +1,2 @@
 # springboot-demo
-example
+example:springboot样例
